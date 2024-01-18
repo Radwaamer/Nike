@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities{
+    .container{
+        @apply mx-auto
+    }
+    h2{
+        @apply text-5xl font-bold pb-8
+    }
+    h3{
+        @apply text-xl font-semibold pb-3
+    }
+    p{
+        @apply text-lg
+    }
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
