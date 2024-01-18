@@ -14,7 +14,7 @@ const Quality = () => {
                     <Button text={"View details"}/>
                 </div>
                 <div className='flex-1 flex justify-center lg:justify-end'>
-                    <img src="../../../public/assets/images/shoe8.svg" alt="" />
+                    <img src="/assets/images/shoe8.svg" alt="" />
                 </div>
             </div>
         </section>

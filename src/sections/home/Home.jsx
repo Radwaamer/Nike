@@ -14,7 +14,7 @@ const Home = () => {
                 </div>
                 <p className="text-slate-500 mb-10">Discover stylish Nike arrivals quality comfort, <br />
                 and innovation for your active life</p>
-                <Button text={"Shop now"} img={"../../../public/assets/icons/arrow-right.svg"}/>
+                <Button text={"Shop now"} img={"/assets/icons/arrow-right.svg"}/>
                 <div className="flex gap-11 mt-12">
                     {statistics.map(stat=>{
                         return (

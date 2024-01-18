@@ -2,7 +2,7 @@ const PopularCard = ({card}) => {
     const rate=[];
     for(let i=0; i<card.rate;i++){
         rate.push(
-            <img key={i} src="../../public/assets/icons/star.svg" alt="star" />
+            <img key={i} src="/assets/icons/star.svg" alt="star" />
         )
     }
     return (

@@ -12,53 +12,53 @@ export const statistics=[
 ];
 
 export const sliderContent=[
-    {title:"Shoe1", src:"../../public/assets/images/thumbnail-shoe1.svg"},
-    {title:"Shoe2", src:"../../public/assets/images/thumbnail-shoe2.svg"},
-    {title:"Shoe3", src:"../../public/assets/images/thumbnail-shoe3.svg"},
+    {title:"Shoe1", src:"/assets/images/thumbnail-shoe1.svg"},
+    {title:"Shoe2", src:"/assets/images/thumbnail-shoe2.svg"},
+    {title:"Shoe3", src:"/assets/images/thumbnail-shoe3.svg"},
 ];
 
 export const HomeShoe=[
-    {title:"Shoe1", src:"../../public/assets/images/big-shoe1.png"},
-    {title:"Shoe2", src:"../../public/assets/images/big-shoe2.png"},
-    {title:"Shoe3", src:"../../public/assets/images/big-shoe3.png"},
+    {title:"Shoe1", src:"/assets/images/big-shoe1.png"},
+    {title:"Shoe2", src:"/assets/images/big-shoe2.png"},
+    {title:"Shoe3", src:"/assets/images/big-shoe3.png"},
 ];
 
 export const PopularCards=[
     {
-        img:"../../public/assets/images/shoe4.svg",
-        icon:"../../public/assets/icons/star.svg",
+        img:"/assets/images/shoe4.svg",
+        icon:"/assets/icons/star.svg",
         rate:4, title:"Nike Air Jordan-01",price:"$210.20"
     },
     {
-        img:"../../public/assets/images/shoe5.svg",
-        icon:"../../public/assets/icons/star.svg",
+        img:"/assets/images/shoe5.svg",
+        icon:"/assets/icons/star.svg",
         rate:3, title:"Nike Air Jordan-02",price:"$200.20"
     },
     {
-        img:"../../public/assets/images/shoe6.svg",
-        icon:"../../public/assets/icons/star.svg",
+        img:"/assets/images/shoe6.svg",
+        icon:"/assets/icons/star.svg",
         rate:3, title:"Nike Air Jordan-03",price:"$220.20"
     },
     {
-        img:"../../public/assets/images/shoe7.svg",
-        icon:"../../public/assets/icons/star.svg",
+        img:"/assets/images/shoe7.svg",
+        icon:"/assets/icons/star.svg",
         rate:2, title:"Nike Air Jordan-04",price:"$230.20"
     },
 ];
 
 export const ServiceCards= [
     {
-        icon:"../../public/assets/icons/truck-fast.svg",
+        icon:"/assets/icons/truck-fast.svg",
         title:"Free shipping", 
         text:"Enjoy seamless shopping with our complimentary shipping service."
     },
     {
-        icon:"../../public/assets/icons/shield-tick.svg",
+        icon:"/assets/icons/shield-tick.svg",
         title:"Secure Payment", 
         text:"Experience worry-free transactions with our secure payment options."
     },
     {
-        icon:"../../public/assets/icons/support.svg",
+        icon:"/assets/icons/support.svg",
         title:"Love to help you", 
         text:"Our dedicated team is here to assist you every step of the way."
     },
